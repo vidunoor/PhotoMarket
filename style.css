@@ -1,0 +1,29 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#voice_output
+{
+    width: 300px;
+    color:black;
+}
+#selfie
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+body{
+    background-image: linear-gradient(to right, rgb(180, 61, 61),rgb(141, 113, 61),rgb(161, 161, 52),rgb(60, 143, 60),rgb(54, 54, 107),rgb(178, 25, 184),rgb(163, 131, 163));
+}
